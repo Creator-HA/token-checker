@@ -1,0 +1,11 @@
+# ビルド生成物
+build/
+dist/
+__pycache__/
+*.spec
+_tc_icon.ico
+*.exe
+
+# 実行時に生成されるローカルファイル
+token_checker.log
+config.json
